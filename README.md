@@ -23,7 +23,7 @@ A nostalgic Doodle Jump game where you can submit your scores to the blockchain 
 
 ## 🚀 Live Demo
 
-**Play Now:** [Deployed Game URL]  
+**Play Now:** [Live Demo](https://doodlejumpfhe.vercel.app/)
 **Contract:** `0x6da26f78b7bec773d93d3521450625ff3e8e26ea`  
 **Network:** Sepolia Testnet  
 **Etherscan:** [View Contract](https://sepolia.etherscan.io/address/0x6da26f78b7bec773d93d3521450625ff3e8e26ea)
